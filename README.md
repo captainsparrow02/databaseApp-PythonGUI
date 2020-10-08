@@ -2,7 +2,7 @@
 This is a simple database GUI application which uses Python's Tkinter as it's GUI and sqlite3 as it's backend database.
 
 # Requirements
-- In the databaseApp-PythonGUI folder run:
+**In the databaseApp-PythonGUI folder run:**
 ```
 pip install Pillow
 ```
