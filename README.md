@@ -19,4 +19,5 @@ python3 databaseGUI.py
 
 # Credits
 This project is based on the lessons given in the YouTube video - [Tkinter Course](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLR_QM0_bfIPnFVAdRkSOJYdwWLnqODkfB&index=1&t=12680s)
+
 Special thanks to [freeCodeCamp.org](https://www.freeCodeCamp.org) and [John Elder](http://johnelder.com/) for this amazing course on Python GUI using Tkinter.
